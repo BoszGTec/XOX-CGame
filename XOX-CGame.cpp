@@ -76,45 +76,6 @@ int gentable(char tdata[9],char ptype[2])
 	}
 
 }
-int winbanner(int wtype){
-	
-	char win[6][60]={{"██╗    ██╗██╗███╗   ██╗\n"},
-			{"██║    ██║██║████╗  ██║"},
-			{"██║ █╗ ██║██║██╔██╗ ██║\n"},
-			{"██║███╗██║██║██║╚██╗██║\n"},
-			{"╚███╔███╔╝██║██║ ╚████║\n"},
-			{" ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝\n"}};
-	
-	char p[6][60]={{"██████╗ "},
-			{"██╔══██╗"},
-			{"██████╔╝"},
-			{"██╔═══╝ "},
-			{"██║"},
-			{"╚═╝"}};
-	
-
-
-
-
-  
-   
-        
-	for(int i=0;i<=6;i++){
-		if(wtype==1){
-			for(int ii=0;p[i][ii]!=0;ii++){
-				printf("%c",p[i][ii]);
-			}
-		}
-		for(int ii=0;win[i][ii]!=0;ii++){
-			printf("%c",win[i][ii]);
-		}
-		printf("\n");
-	}
-
-
-
-
-}
 
 int titlegame(){
 	system("color b");
@@ -240,19 +201,19 @@ main()
 		}//{}'s if
 		
 		if(gameover==1 && gamemode!=1){
-			printf("P1win");
+			printf("\nP1win");
 		}
 		if(gameover==1 && gamemode==1){
-			printf("You Win");
+			printf("\nYou Win");
 		}
 		else if(gameover==2 && gamemode!=1){
-			printf("P2win");
+			printf("\nP2win");
 		}
 		else if(gameover==2 && gamemode==1){
-			printf("You Lose");
+			printf("\nYou Lose");
 		}
 		else if(gameover==3){
-			printf("Draw");
+			printf("\nDraw");
 		}
 		
 		
