@@ -217,7 +217,8 @@ main()
 		}
 		
 	}
-	scanf("");
+	printf("Press [e]xit");
+	scanf("%s");
 	
 
 }
