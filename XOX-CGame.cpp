@@ -216,9 +216,9 @@ main()
 			printf("\nDraw");
 		}
 		
-		
 	}
-
+	printf("Type for exit");
+	scanf("%d");
 	
 
 }
