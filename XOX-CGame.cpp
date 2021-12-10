@@ -217,8 +217,7 @@ main()
 		}
 		
 	}
-	printf("Type for exit");
-	scanf("%d");
+	scanf("");
 	
 
 }
