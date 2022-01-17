@@ -6,7 +6,7 @@
 ![D__try b_Untitled1 cpp - Dev-C++ 5 11 10_12_2564 13_04_02](https://user-images.githubusercontent.com/95701554/145525369-717d61e0-27b0-4bbe-959f-7a5d0ee9c7ca.png)
 
 Online Demo : [Link](https://onlinegdb.com/9dJel5L_V) <br>
-+ By [©bossgeeg](mailto:bossgeeg123456@gmail.com)
++ By [©bossgeeg123456](mailto:bossgeeg123456@gmail.com)
 
 ### 📸 Screenshots
 ![Screenshot (2)](https://user-images.githubusercontent.com/95701554/145567072-6de2db7f-8b0b-40bb-920c-f13e3f46726a.png)
