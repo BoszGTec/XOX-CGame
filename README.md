@@ -6,8 +6,7 @@
 ![D__try b_Untitled1 cpp - Dev-C++ 5 11 10_12_2564 13_04_02](https://user-images.githubusercontent.com/95701554/145525369-717d61e0-27b0-4bbe-959f-7a5d0ee9c7ca.png)
 
 Online Demo : [Link](https://onlinegdb.com/9dJel5L_V) <br>
-สร้างโดย<img height=30px src="https://camo.githubusercontent.com/c8d97699db3542a59ec80ef7b4c6ecfe44885fd8fc19b04dbbccf098ca940fe1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f632e737667" />
-+ By [©2022 BoszGTec](https://github.com/BoszGTec)
+
 
 ### 📸 Screenshots
 ![Screenshot (2)](https://user-images.githubusercontent.com/95701554/145567072-6de2db7f-8b0b-40bb-920c-f13e3f46726a.png)
